@@ -4,28 +4,15 @@
   Recent IT Graduate | AWS, Terraform & Full-Stack Development | Aspiring Cybersecurity Professional
 </h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=Umarhuss2234&theme=flat&no-frame=true&no-bg=true&margin-w=8"
-      alt="Umar Hussain's GitHub trophies"
-    />
-  </a>
-</p>
-
 <h2>About Me</h2>
 
-- 🎓 Achieved **D* D* D*** in the BTEC Level 3 National Extended Diploma in Information Technology.
+- 🚀 Seeking opportunities to continue developing through IT and cybersecurity roles and internships.
 
-- 💼 Completed a six-week IT internship at **Encon Pharma**, gaining professional experience in full-stack development, AWS cloud infrastructure, Terraform, automated testing and Agile development.
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/umar-hussain-750221375/).
 
-- ☁️ Designed, built, tested and publicly deployed a complete **Cold Chain Operations Portal** using AWS, Terraform, Next.js and TypeScript.
+- 📄 You can check out my experience and qualifications in my [CV](./Umar_Hussain_CV.pdf).
 
-- 📚 Completed courses in **cybersecurity, cloud computing and Python**, including Google Foundations of Cybersecurity and AWS Cloud Technical Essentials.
-
-- 🔐 Particularly interested in **cybersecurity and cloud computing**, while continuing to develop skills across software development and general IT.
-
-- 🚀 Seeking opportunities to continue developing through IT and cybersecurity roles, internships and degree apprenticeships.
+- 📫 Feel free to reach out to me at [uhussain22445@gmail.com](mailto:uhussain22445@gmail.com).
 
 <h2>Languages and Technologies</h2>
 
