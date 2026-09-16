@@ -15,7 +15,7 @@
 
 <h2>About Me</h2>
 
-- 🎓 Achieved **D*D*D*** in the BTEC Level 3 National Extended Diploma in Information Technology.
+- 🎓 Achieved **D* D* D*** in the BTEC Level 3 National Extended Diploma in Information Technology.
 
 - 💼 Completed a six-week IT internship at **Encon Pharma**, gaining professional experience in full-stack development, AWS cloud infrastructure, Terraform, automated testing and Agile development.
 
