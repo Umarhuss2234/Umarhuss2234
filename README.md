@@ -10,7 +10,7 @@
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/umar-hussain-750221375/).
 
-- 📄 You can check out my experience and qualifications in my [CV](./Umar_Hussain_CV.pdf).
+- 📄 You can check out my experience and qualifications in my [CV](./Umar_Hussain_CV_2026.docx).
 
 - 📫 Feel free to reach out to me at [uhussain22445@gmail.com](mailto:uhussain22445@gmail.com).
 
