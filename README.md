@@ -21,12 +21,12 @@
 <p align="left">
 
   <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="Amazon Web Services"
-      width="40"
-      height="40"
+  <a href="https://aws.amazon.com/">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    alt="Amazon Web Services"
+    width="40"
+    height="40"
     />
   </a>
 
