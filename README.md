@@ -21,14 +21,14 @@
 <p align="left">
 
   <!-- AWS -->
-  <a href="https://aws.amazon.com/">
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    src="https://skillicons.dev/icons?i=aws"
     alt="Amazon Web Services"
     width="40"
     height="40"
-    />
-  </a>
+  />
+</a>
 
   <!-- Terraform -->
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
